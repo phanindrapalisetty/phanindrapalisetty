@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @phanindrapalisetty
-- 👀 I’m interested in Data Science and front-end development
-- 🌱 I’m currently learning Python, and JS
+- 👀 I’m interested in Data Science and AI
+- 🌱 I’m currently learning Python, REST APIs, and PowerBI
 - 💞️ I’m looking to collaborate on entry-level projects.
 
 <!---
